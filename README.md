@@ -10,3 +10,12 @@ All of the things I would like to do.
 - [ ] Boston
 - [ ] Alberta
 - [ ] Quebec
+
+
+## Skills
+- [ ] Violin
+- [ ] Guitar
+- [ ] Vue.js
+- [ ] Watercolor and Gouache
+- [ ] Digital Painting
+- [ ] Novel Writing
