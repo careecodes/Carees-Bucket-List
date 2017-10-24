@@ -23,4 +23,8 @@ All of the things I would like to do.
 ## Career 
 - [ ] Speak at a developer conference
 - [ ] Mentor someone
-- [ ] 
+
+## Fitness
+- [ ] Run a 5k
+- [ ] Run a 10k
+- [ ] Get to my ideal weight
