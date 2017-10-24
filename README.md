@@ -19,3 +19,8 @@ All of the things I would like to do.
 - [ ] Watercolor and Gouache
 - [ ] Digital Painting
 - [ ] Novel Writing
+
+## Career 
+- [ ] Speak at a developer conference
+- [ ] Mentor someone
+- [ ] 
