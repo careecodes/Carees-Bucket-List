@@ -11,7 +11,6 @@ All of the things I would like to do.
 - [ ] Alberta
 - [ ] Quebec
 
-
 ## Skills
 - [ ] Violin
 - [ ] Guitar
@@ -23,6 +22,8 @@ All of the things I would like to do.
 ## Career 
 - [ ] Speak at a developer conference
 - [ ] Mentor someone
+- [ ] Finish my undergrad
+- [ ] Finish masters degree
 
 ## Fitness
 - [ ] Run a 5k
