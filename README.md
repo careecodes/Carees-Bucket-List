@@ -29,4 +29,4 @@ All of the things I would like to do.
 - [ ] Run a 5k
 - [ ] Run a 10k
 - [ ] Get to my ideal weight
-- [ ] Adhere to KETO diet for 1 month
+- [ ] Adhere to KETO diet for 1 month - attempt start oct 25
