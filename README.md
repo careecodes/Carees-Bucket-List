@@ -30,4 +30,4 @@ All of the things I would like to do.
 - [ ] Run a 5k - TODO find a race for 2017/18
 - [ ] Run a 10k
 - [ ] Get to my ideal weight
-- [ ] Adhere to KETO diet for 1 month - attempt start oct 25
+- [ ] Adhere to KETO diet for 1 month - attempt start oct 25 - 5 days down! (10/30 update)
