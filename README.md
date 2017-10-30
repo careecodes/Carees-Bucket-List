@@ -1,20 +1,22 @@
 # Bucket List
 
-All of the things I would like to do.
+It's important to have aspirations. It's good to remember where you're going and why you do what you do. 
+
+Sometimes life is hard. But the difficult times are necessary. Without the bad times, the good times don't shine as bright.
 
 
 ## Travel
+
+### United States
+- [x] San Francisco
+- [ ] NYC
+- [ ] Boston
 
 ### International
 - [ ] London
 - [ ] Berlin
 - [ ] Alberta
 - [ ] Quebec
-
-### United States
-- [x] San Francisco
-- [ ] NYC
-- [ ] Boston
 
 ## Skills
 - [ ] Violin
