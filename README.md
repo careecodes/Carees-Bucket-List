@@ -4,13 +4,17 @@ All of the things I would like to do.
 
 
 ## Travel
+
+### International
 - [ ] London
 - [ ] Berlin
-- [ ] NYC
-- [ ] Boston
 - [ ] Alberta
 - [ ] Quebec
+
+### United States
 - [x] San Francisco
+- [ ] NYC
+- [ ] Boston
 
 ## Skills
 - [ ] Violin
@@ -31,3 +35,4 @@ All of the things I would like to do.
 - [ ] Run a 10k
 - [ ] Get to my ideal weight
 - [ ] Adhere to KETO diet for 1 month - attempt start oct 25 - 5 days down! (10/30 update)
+- [ ] Run 1 mile 3 times a week
