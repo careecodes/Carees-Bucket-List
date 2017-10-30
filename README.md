@@ -10,6 +10,7 @@ All of the things I would like to do.
 - [ ] Boston
 - [ ] Alberta
 - [ ] Quebec
+- [x] San Francisco
 
 ## Skills
 - [ ] Violin
